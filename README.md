@@ -15,8 +15,7 @@
 
 # Scripts
 
-- English:
-gg
+- English Data Analysis Script
 
 
 
